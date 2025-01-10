@@ -19,10 +19,9 @@ Literalura ofrece las siguientes opciones:
 
 ## Requisitos
 
-Para ejecutar Literalura, necesitas:
-
-    Java JDK 8 o superior
-    Conexión a internet (para acceder a la API Gutendex)
+Para ejecutar Literalura, necesitas:\
+    - Java JDK 8 o superior\
+    - Conexión a internet (para acceder a la API Gutendex)
 
 ## Instalación
 
